@@ -1,4 +1,4 @@
-![Victor Ulloa - Aspiring Software Engineer](https://i.ibb.co/92wMFpv/Black-Minimalist-Corporate-Business-Profile-Linked-In-Banner.png)
+![Victor Ulloa - Aspiring Software Engineer](https://i.ibb.co/dPLHjrv/Black-Minimalist-Corporate-Business-Profile-Linked-In-Banner-1.png)
 
 ### Hi there, I'm Victor Ulloa 👋
 
