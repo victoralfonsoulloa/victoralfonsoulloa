@@ -2,12 +2,12 @@
 
 ### Hi there, I'm Victor Ulloa 👋
 
-Aspiring software engineer | Full-stack development enthusiast | Problem solver | Explorer of hiking trails 🌄📸
+Software Engineer Intern @Guild | Full-stack development enthusiast | Problem solver | Explorer of hiking trails 🌄📸
 
 ---
 
 🚀 **My Journey**  
-I'm currently studying full-stack software development with **TripleTen** and **Seattle Central College** through the **Year Up** program. My journey into software engineering started with a love for problem-solving and technology. Today, I’m diving into tools like **React.js**, **Node.js**, and **MongoDB** and am especially passionate about building **REST APIs** to streamline processes and enhance user experiences.
+My journey into software engineering started with a love for problem-solving and technology. Today, I’m diving into tools like **React.js**, **Node.js**, and **MongoDB** and am especially passionate about building **REST APIs** to streamline processes and enhance user experiences.
 
 🌱 **What I’m working on:**  
 I thrive in collaborative, dynamic environments and am eager to contribute to innovative projects that create a positive impact. Whether it's coding, testing, or project management, I'm excited to keep learning and pushing boundaries.
