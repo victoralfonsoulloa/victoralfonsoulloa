@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Victor Ulloa 👋
 
-Software Engineer Intern @Guild | Full-stack development enthusiast | Problem solver | Explorer of hiking trails 🌄📸
+Software Engineer | Full-stack development enthusiast | Problem solver | Explorer of hiking trails 🌄📸
 
 ---
 
